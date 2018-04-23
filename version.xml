@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <version>
-	<name>Ghostshaders</name>
-	<tag>4.0</tag>
-	<version>40</version>
+	<name>GhostShaders</name>
+	<tag>4.0.0</tag>
+	<version>400</version>
 	<date>22/04/2018</date>
 	<changes>...</changes>
 </version>
